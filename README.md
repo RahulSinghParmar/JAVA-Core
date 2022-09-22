@@ -3,4 +3,4 @@ Simple examples done using Java OOP concepts
 
 * ds
 
-![JAVA-Core](JavaImage.png)
+![JAVA-Core](JavaCore.jpg)
