@@ -18,14 +18,49 @@ public class Assignment
     *=                  a *= b;             a = a * b;
     /=                  a /= b;             a = a / b;
     %=                  a %= b;             a = a % b;
+    &=                  a &= b;             a = a & b;
+    |=                  a |= b;             a = a | b;
+    ^=                  a ^= b;             a = a ^ b;
+    <<=                 a <<= b;            a = a << b;
+    >>=                 a >>= b;            a = a >> b;
 
     */
 
     public static void main(String[] args)
     {
-        // Assign the variable
-        int a = 10;
-        int b = 20;
+        // creating variable
+        int b = 10;
+        //int b = 5;
+        int a;
+
+        //assign value using =
+        a = b;    //a= 10
+        System.out.println("Variable using a = " + a);  //10
+
+        //assign value using +=
+        a += b;   //a = 10
+        System.out.println("Variable using a += " + a); //20
+
+        //assign value using -=
+        a -= b;   //a = 20
+        System.out.println("Variable using a -= " + a); //10
+
+        //assign value using *=
+        a *= b;   //a = 10
+        System.out.println("Variable using a *= " + a); //100
+
+        //assign value using /=
+        a /= b;   //a = 100
+        System.out.println("Variable using a /= " + a);   //10
+
+        //assign value using %=
+        a %= b;   //a = 10
+        System.out.println("Variable using a %= " + a); //0
+
+        //assign value using &=
+        //a &= b;   //var1 = false
+        //System.out.println("Variable using a &= " + a);
+
 
 
 
