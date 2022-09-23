@@ -3,6 +3,13 @@ Simple examples done using Java OOP concepts
 
 ![JAVA-Core](JavCore.jpg)
 
+## Content
+
+### Java_Introduction
+* [Example](#Example)
+
+
+
 ### Section 1
 * Introduction to programming 
 * Introduction to java 
@@ -45,7 +52,7 @@ Simple examples done using Java OOP concepts
 * Threads and multithreading
 * Wrapper Classes
 * Data Structures
-* JAVA COLLECTION FRAMEWORKS
+* JAVA Collection Frameworks
 * File Handling
 * Serialization
 * Garbage Collector
