@@ -1,6 +1,3 @@
-package Programing_Introduction;
-
-
 //create variable in java
 public class Variable_creation {
     public static void main (String [] args)

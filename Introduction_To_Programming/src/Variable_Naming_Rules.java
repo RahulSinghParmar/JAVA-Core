@@ -1,5 +1,3 @@
-package Programing_Introduction;
-
 public class Variable_Naming_Rules {
     public static void main(String[] args)
     {

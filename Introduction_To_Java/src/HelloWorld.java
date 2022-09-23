@@ -1,5 +1,3 @@
-package Java_Introduction;
-
 //when we have "main" method in class we call the class as "driver class"
 //Driver Class
 public class HelloWorld

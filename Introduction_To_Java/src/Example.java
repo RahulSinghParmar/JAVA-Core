@@ -1,5 +1,4 @@
 //reference
-package Java_Introduction;  //Package / folder name
 
 class Example
 {     //class block start                                  //.

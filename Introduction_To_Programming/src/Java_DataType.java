@@ -1,5 +1,3 @@
-package Programing_Introduction;
-
 public class Java_DataType
 {
     int speed;
@@ -134,11 +132,16 @@ public class Java_DataType
         System.out.println();
         System.out.println(" ***** Non Primitive Data_Type *******");
         System.out.println(); // spacing
+
+
+
         // Non-Primitive Data_Type
+        // Java also provides support for character strings via java.lang.String class.
+        // Strings in Java are not primitive types. Instead, they are objects
         // does not have fixed Size
         // default value is [NULL]
         String myString = "Hello I'm String";
         System.out.println("Using String   : " + myString);
-    }
 
+    }
 }

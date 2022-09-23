@@ -1,16 +1,22 @@
 # JAVA-Core
-Simple examples done using Java OOP concepts
+## Simple examples done using Java OOP concepts
 
 ![JAVA-Core](JavCore.jpg)
 
 ## Content
 
-### [Java Introduction](Java_Introduction)
+### [Introduction To Java](Introduction_To_Java/src)
 * Example
 * HelloWorld
+
+### [Introduction To Programming](Introduction_To_Programming/src)
 * Variable Creation
 * Variable Naming rules
 * Java literals
+* Java Data Types
+* Operators
+* * daa
+
 
 
 

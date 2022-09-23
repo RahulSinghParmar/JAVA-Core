@@ -1,5 +1,3 @@
-package Programing_Introduction;
-
 public class Java_literals
 {
     public static void main(String[] args)
