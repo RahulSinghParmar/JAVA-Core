@@ -1,6 +1,6 @@
-package Operators.Arithmetic_Operators;
+package Operators;
 
-public class Arithmetic
+public class Arithmetic_Operator
 {
     /* Arithmetic operators are used to perform arithmetic operations on variables and data.
 
@@ -8,8 +8,8 @@ public class Arithmetic
 
         +           			Addition
         -           			Subtraction
-        *           			Multiplication
-        /       				Division
+        *                       Multiplication
+        /                       Division
         %           			Modulo Operation (Remainder after division)
 
     */

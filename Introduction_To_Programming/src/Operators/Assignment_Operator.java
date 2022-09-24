@@ -1,6 +1,6 @@
-package Operators.Assignment_Operator;
+package Operators;
 
-public class Assignment
+public class Assignment_Operator
 {
     /*
     Assignment operators are used in Java to assign values to variables. For example,

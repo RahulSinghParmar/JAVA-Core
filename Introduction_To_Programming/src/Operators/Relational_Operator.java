@@ -1,24 +1,25 @@
-package Operators.Relational_Operator;
+package Operators;
 
-public class Relational
+public class Relational_Operator
 {
     /*
     Relational operators are used to check the relationship between two operands
-    check if a is less than b
+    check if a is less than b.
+    Relational operators are used in decision-making and loops
 
     a < b;
 
     Here, < operator is the relational operator. It checks if a is less than b or not.
     It returns either true or false
 
-    Operator        Description                 Example
+    Operator            Description                  Example
 
-	==				Is Equal To	        		3 == 5 returns false
-    !=			    Not Equal To		        3 != 5 returns true
-	>				Greater Than		        3 > 5 returns false
-    <				Less Than			        3 < 5 returns true
-    >=				Greater Than or Equal To	3 >= 5 returns false
-	<=				Less Than or Equal To		3 <= 5 returns true
+    ==              Is Equal To                     3 == 5 returns false
+    !=              Not Equal To                    3 != 5 returns true
+    >               Greater Than                    3 > 5 returns false
+    <               Less Than                       3 < 5 returns true
+    >=              Greater Than or Equal To        3 >= 5 returns false
+    <=              Less Than or Equal To           3 <= 5 returns true
 
      */
 
