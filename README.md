@@ -14,8 +14,25 @@
 * Variable Naming rules
 * Java literals
 * Java Data Types
+* Expression
+* Input Methods
 * Operators
-* * daa
+* * Arithmetic Operations
+* * Assignment Operators
+* * Bitwise Operations
+* * Unary Operations
+* * * Pre Increment operator
+* * * Pre Decrement operator
+* * * Post Increment operator
+* * * Pre Decrement operator
+* * InstanceOf Operations
+* * logical operations
+* * Relational Operations
+* * Shifting Operations
+* * Ternary Operators
+
+
+
 
 
 
