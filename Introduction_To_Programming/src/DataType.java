@@ -1,4 +1,4 @@
-public class Java_DataType
+public class DataType
 {
     int speed;
     /* We have two type of Data Type
