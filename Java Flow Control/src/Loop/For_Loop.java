@@ -45,16 +45,16 @@ Here is how this program works.
     2nd                     i = 2               true                hello is printed.
                             n = 5                                   i is increased to 3.
 
-    3rd     				i = 3               true                hello is printed.
+    3rd                     i = 3               true                hello is printed.
                             n = 5                                   i is increased to 4.
 
-    4th        				i = 4               true                hello is printed.
+    4th                     i = 4               true                hello is printed.
                             n = 5                                   i is increased to 5.
 
-    5th     				i = 5               true                hello is printed.
+    5th                     i = 5               true                hello is printed.
                             n = 5                                   i is increased to 6.
 
-    6th        				i = 6               false               The loop is terminated.
+    6th                     i = 6               false               The loop is terminated.
                             n = 5
 
  */

@@ -2,6 +2,26 @@ package Loop;
 
 public class For_each_loop
 {
+    /*
+    In Java, the for-each loop is used to iterate through elements of arrays and collections (like ArrayList).
+    It is also known as the enhanced for loop.
+
+    For-each Loop Syntax
+
+    The syntax of the Java for-each loop is:
+
+    for(dataType item : array) {
+        ...
+    }
+
+    Here,
+
+        array - an array or a collection
+        item - each item of array/collection is assigned to this variable
+        dataType - the data type of the array/collection
+
+     */
+
     //Print Array elements
     public static void main(String[] args)
     {
