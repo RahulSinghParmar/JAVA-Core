@@ -32,7 +32,7 @@
   - [x] [Ternary Operators](https://github.com/RahulSinghParmar/JAVA-Core/blob/0cc681f4f948828098d09806d2f06f0604153dcb/Introduction%20To%20Programming/src/Operators/Ternary_Operator.java)
 
 ### [Java Flow Control](https://github.com/RahulSinghParmar/JAVA-Core/blob/a7149e446566272ab4c1b0501688cea06d3cdcac/Java%20Flow%20Control)
-- [x] [if](https://github.com/RahulSinghParmar/JAVA-Core/blob/a7149e446566272ab4c1b0501688cea06d3cdcac/Java%20Flow%20Control/src/If.java)
+- [x] [if](Java Flow Control/src/If.java)
 - [x] [if else](https://github.com/RahulSinghParmar/JAVA-Core/blob/a7149e446566272ab4c1b0501688cea06d3cdcac/Java%20Flow%20Control/src/If_else.java)
 - [x] [if else if ladder](https://github.com/RahulSinghParmar/JAVA-Core/blob/a7149e446566272ab4c1b0501688cea06d3cdcac/Java%20Flow%20Control/src/ladder_if_else_if.java)
 - [x] [if else nested](https://github.com/RahulSinghParmar/JAVA-Core/blob/a7149e446566272ab4c1b0501688cea06d3cdcac/Java%20Flow%20Control/src/Nested_If_else.java)
