@@ -1,4 +1,4 @@
-package Loop;
+package Programs;
 
 public class P2
 {

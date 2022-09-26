@@ -1,6 +1,6 @@
-package Loop;
+package Programs;
 
-public class P1
+public class P6
 {
     //Display numbers to print from 1 to 5 using for loop
     //                   print from 5 to 1 using for loop

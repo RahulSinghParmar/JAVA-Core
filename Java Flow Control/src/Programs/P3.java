@@ -1,4 +1,4 @@
-package Loop;
+package Programs;
 
 // Calculate the sum of all elements of an array
 public class P3
